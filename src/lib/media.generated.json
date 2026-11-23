@@ -1,0 +1,36 @@
+{
+  "videos": {
+    "arcade": {
+      "src": "/videos/arcade.mp4",
+      "poster": "/videos/posters/arcade.jpg"
+    },
+    "pharaon": {
+      "src": "/videos/pharaon.mp4",
+      "poster": "/videos/posters/pharaon.jpg"
+    },
+    "redrambler": {
+      "src": "/videos/redrambler.mp4",
+      "poster": "/videos/posters/redrambler.jpg"
+    },
+    "training": {
+      "src": "/videos/training.mp4",
+      "poster": "/videos/posters/training.jpg"
+    }
+  },
+  "images": {
+    "arcade": "/projects/arcade.png",
+    "carrag": "/projects/carrag.webp",
+    "coach": "/projects/coach.webp",
+    "farming": "/projects/farming.webp",
+    "iiot": "/projects/iiot.jpg",
+    "lane": "/projects/lane.jpg",
+    "lunchtab": "/projects/lunchtab.webp",
+    "paris": "/projects/paris.jpg",
+    "pharaon": "/projects/pharaon.webp",
+    "plant": "/projects/plant.webp",
+    "redrambler": "/projects/redrambler.png",
+    "reviews": "/projects/reviews.jpg",
+    "training": "/projects/training.webp",
+    "visionguard": "/projects/visionguard.webp"
+  }
+}

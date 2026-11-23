@@ -1,0 +1,9 @@
+Déposez ici la vidéo (mp4) d'un projet, nommée d'après l'identifiant du projet :
+
+coach.mp4, redrambler.mp4, carrag.mp4, visionguard.mp4, reviews.mp4, paris.mp4, plant.mp4,
+iiot.mp4, farming.mp4, pharaon.mp4, arcade.mp4, training.mp4, lunchtab.mp4, lane.mp4
+
+Le bouton « Voir la vidéo » apparaît automatiquement sur les projets qui ont leur fichier.
+(Les anciens noms smart-farming-vr.mp4, pharaonic-3d.mp4, vr-arcade.mp4 et
+vr-industrial-training.mp4 fonctionnent toujours.)
+Redémarrez `npm run dev` si le bouton n'apparaît pas tout de suite.

@@ -1,0 +1,19 @@
+Déposez ici l'image (ou la capture) de chaque projet. Le nom du fichier = l'identifiant du projet :
+
+coach.jpg            Agent IA Coach de Carrière
+redrambler.jpg       Red Rambler
+carrag.jpg           Assistant IA manuel automobile (MG ZS)
+visionguard.jpg      Smart Nut Inspection — VisionGuard AI
+reviews.jpg          Analyse sémantique d'avis clients
+paris.jpg            Guide de voyage IA — Paris
+plant.jpg            Smart Plant Monitor
+iiot.jpg             Chaîne de données Industrie 4.0
+farming.jpg          Smart Farming VR
+pharaon.jpg          Pharaonic Civilization in 3D
+arcade.jpg           VR Arcade
+training.jpg         VR Industrial Training
+lunchtab.jpg         Lunch Tab
+lane.jpg             Lane Detection
+
+Formats acceptés : .jpg, .png ou .webp (format conseillé : paysage ou carré, environ 1200 x 900 px, moins de 400 Ko).
+Sans image, une illustration aux couleurs du portfolio s'affiche à la place.

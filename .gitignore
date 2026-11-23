@@ -1,0 +1,13 @@
+node_modules
+.next
+next-env.d.ts
+
+videos-source/*.mp4
+videos-source/*.mov
+images-source/
+tsconfig.tsbuildinfo
+
+videos-source/*.mp4
+videos-source/*.mov
+images-source/
+tsconfig.tsbuildinfo

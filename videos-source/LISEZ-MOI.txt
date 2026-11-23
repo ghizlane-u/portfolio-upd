@@ -1,0 +1,9 @@
+CONVERSION AUTOMATIQUE DES VIDÉOS
+
+1. Déposez ici vos vidéos d'origine (mp4, mov, mkv, avi, webm…), sans les convertir,
+   nommées d'après l'identifiant du projet :
+   coach, redrambler, carrag, visionguard, reviews, paris, plant, iiot, farming, pharaon,
+   arcade, training, lunchtab, lane      (exemple : farming.mp4 ou arcade.mov)
+2. Lancez  npm.cmd run dev  (ou  npm.cmd run videos ).
+   Chaque vidéo est convertie en MP4 H.264 + AAC dans public/videos/, une seule fois.
+3. Le bouton « Voir la vidéo » apparaît sur le projet.
